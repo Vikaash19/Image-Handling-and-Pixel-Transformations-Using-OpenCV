@@ -222,11 +222,11 @@ plt.show()
 
   3.Cropped image:
 
-  ![alt text](<cropped region.png>)
+  ![alt text](<cropped eagle.png>)
 
   4.Resize and flip Horizontally:
 
-  ![alt text](<flipped horizontally.png>)
+  ![alt text](<flipped eagle.png>)
 
   5.Read 'Apollo-11-launch.jpg' and  Display the final annotated image:
 
@@ -259,7 +259,7 @@ plt.show()
 
 4.Merge the H, S, V channels and display:
 
-![alt text](<merged hsv with original.png>)
+![alt text](<Merged original and hsv boy.png>)
 
 ## Result:
 Thus, the images were read, displayed, brightness and contrast adjustments were made, and bitwise operations were performed successfully using the Python program.
